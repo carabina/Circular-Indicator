@@ -32,7 +32,7 @@ The text in the middle of the indicator is updated by using the delegate `Indica
 
 It has one method, which allows the view controller to change the attributed text to anything (or return an empty string) depending on the current percentage.
 
--(NSAttributedString *)updateText:(CGFloat)percentage
+    -(NSAttributedString *)updateText:(CGFloat)percentage
 
 ##License
 
