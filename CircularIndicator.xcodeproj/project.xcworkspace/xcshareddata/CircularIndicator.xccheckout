@@ -10,14 +10,14 @@
 	<string>CircularIndicator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>04FF7DE42ADEB1F747BB815321198F6E41BC5259</key>
+		<key>FFA3D9ECB33804E4F02C3FEE0EB34D421D15EEED</key>
 		<string>https://github.com/micoo-li/CircularIndicator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CircularIndicator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>04FF7DE42ADEB1F747BB815321198F6E41BC5259</key>
+		<key>FFA3D9ECB33804E4F02C3FEE0EB34D421D15EEED</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>04FF7DE42ADEB1F747BB815321198F6E41BC5259</string>
+	<string>FFA3D9ECB33804E4F02C3FEE0EB34D421D15EEED</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>04FF7DE42ADEB1F747BB815321198F6E41BC5259</string>
+			<string>FFA3D9ECB33804E4F02C3FEE0EB34D421D15EEED</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CircularIndicator</string>
 		</dict>
