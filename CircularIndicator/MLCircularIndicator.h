@@ -10,13 +10,13 @@
 
 //A delegate is here so that others can customize the text displayed, otherwise the default sets itself as the delegate to display the default timer countdown
 //A timer countdown can be replaced with a percentage display, or anything else
-@protocol IndicatorViewDelegate <NSObject>
+@protocol MLIndicatorViewDelegate <NSObject>
 
 -(NSAttributedString *)updateText:(CGFloat)percentFilled;
 
 @end
 
-@interface CircularIndicator : NSView<IndicatorViewDelegate>
+@interface MLCircularIndicator : NSView<MLIndicatorViewDelegate>
 
 //Color of the circular indicator
 @property (readwrite, retain) NSColor *indicatorColor;
@@ -37,7 +37,7 @@
 @property (readwrite, assign) BOOL clockwise;
 
 //Delegate
-@property (readwrite, weak) id<IndicatorViewDelegate> delegate;
+@property (readwrite, weak) id<MLIndicatorViewDelegate> delegate;
 
 
 

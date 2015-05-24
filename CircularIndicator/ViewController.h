@@ -7,13 +7,13 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "CircularIndicator.h"
+#import "MLCircularIndicator.h"
 
 
 //Basically a Timer
-@interface ViewController : NSViewController <IndicatorViewDelegate>
+@interface ViewController : NSViewController <MLIndicatorViewDelegate>
 {
-    IBOutlet CircularIndicator *indicator;
+    IBOutlet MLCircularIndicator *indicator;
     
     NSTimer *timer;
     

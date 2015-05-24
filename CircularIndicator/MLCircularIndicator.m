@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 michael. All rights reserved.
 //
 
-#import "CircularIndicator.h"
+#import "MLCircularIndicator.h"
 
 #define DEFAULT_INDICATOR_COLOR [NSColor colorWithCalibratedRed:0 green:255.0/255.0 blue:253.0/255.0 alpha:1]
 //Default indicator width
@@ -15,7 +15,7 @@
 //Default background color
 #define DEFAULT_BACKGROUND_COLOR [NSColor windowBackgroundColor]
 
-@implementation CircularIndicator
+@implementation MLCircularIndicator
 
 @synthesize percentage = _percentage;
 
