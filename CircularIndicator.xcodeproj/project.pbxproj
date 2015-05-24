@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C2D4F851B1182020050EBD4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4C2D4F841B1182020050EBD4 /* README.md */; };
+		4C2D4F871B1182580050EBD4 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4C2D4F861B1182580050EBD4 /* LICENSE */; };
 		4C752E851B08533300772712 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C752E841B08533300772712 /* AppDelegate.m */; };
 		4C752E871B08533300772712 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C752E861B08533300772712 /* main.m */; };
 		4C752E8A1B08533300772712 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C752E891B08533300772712 /* ViewController.m */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		4C2D4F841B1182020050EBD4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4C2D4F861B1182580050EBD4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		4C752E7E1B08533300772712 /* CircularIndicator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircularIndicator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C752E821B08533300772712 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C752E831B08533300772712 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				4C2D4F841B1182020050EBD4 /* README.md */,
+				4C2D4F861B1182580050EBD4 /* LICENSE */,
 				4C752E801B08533300772712 /* CircularIndicator */,
 				4C752E971B08533300772712 /* CircularIndicatorTests */,
 				4C752E7F1B08533300772712 /* Products */,
@@ -204,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C2D4F871B1182580050EBD4 /* LICENSE in Resources */,
 				4C752E8C1B08533300772712 /* Images.xcassets in Resources */,
 				4C752E8F1B08533300772712 /* Main.storyboard in Resources */,
 			);
